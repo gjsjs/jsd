@@ -1,0 +1,215 @@
+/*
+* @Author: bp
+* @Date:   2017-08-20 16:15:31
+* @Last Modified by:   bp
+* @Last Modified time: 2017-08-20 20:04:03
+*/
+.ha{
+	width: 1240px;
+	height:614px;
+	float: left;
+	margin: 0 auto;
+}
+.ha1{
+	width:234px;
+	height:300px;
+    float:left;
+    background:#fff;
+    margin-right:14px;
+    margin-bottom: 14px;
+    position:relative;
+    overflow:hidden;
+    display: block;
+}
+#ha1{
+	  margin-right:14px;
+}
+.ha1:hover{
+	transform: translateY(3px);
+	box-shadow:0px 3px 5px 5px rgba(0, 0, 0, 0.05);
+}
+.ha2{
+	width: 234px;
+	height: 65px;
+    position:absolute;
+    bottom:-65px;
+    left: 0px;
+    background:#ff6700;
+    left:0;
+    top:300px;
+}
+.ha2 a{
+	width: 214px;
+	height: 55px;
+	margin: 0 auto;
+	display: block;
+	font-size:12px;
+	color:#000;
+	line-height:55px;
+	text-align: center;
+    text-decoration: none;
+    margin-top:5px;
+}
+.ha1:hover .ha2{
+	 bottom: 0;
+	 transform: translateY(-65px);
+	 transition:all 0.5s;
+}
+.ha3{
+	width: 64px;
+	height: 20px;
+	background:#83c44e;
+	font-size:12px;
+	line-height:20px;
+	text-align: center;
+	color:#fff;
+	margin: 0 auto;
+}
+.ha4{
+	width: 150px;
+	height: 150px;
+	display: block;
+	margin: 0 auto;
+}
+.ha5 a{
+	width: 214px;
+	height: 22px;
+	display: block;
+	margin: 0 auto;
+	font-size: 13px;
+	color: #000;
+	line-height:22px;
+	text-align: center;
+	text-decoration: none;
+}
+.ha6{
+	width: 214px;
+	height: 22px;
+	margin: 0 auto;
+	font-size:12px;
+	color: #ccc;
+	line-height:22px;
+	text-align: center;
+	margin-top: 10px;
+}
+.ha7{
+	width: 214px;
+	height:22px;
+	margin: 0 auto;
+	font-size:12px;
+	color: #ff6700; 
+	line-height: 22px;
+	text-align:center;
+	margin-top: 10px;
+}
+.haha{
+	width:234px;
+	height:300px;
+	float: left;
+    margin-right:14px;
+    margin-bottom: 14px;
+    background: #fff;
+}
+.haha1{
+	width: 234px;
+	height: 143px;
+    margin-bottom: 14px;
+    background: #fff;
+}
+.haha1:hover{
+	transform: translateY(3px);
+	box-shadow:0px 3px 5px 5px rgba(0, 0, 0, 0.05);
+}
+.haha11{
+	width: 109px;
+	height: 50px;
+	margin: 0 auto;
+	float:left;
+}
+.haha1-1 a{
+	width:109px;
+	height: 21px;
+	margin: 0 auto;
+	margin-top: 30px;
+	font-size:14px;
+	color: #000;
+	line-height:21px;
+	text-align: center;
+	display:block;
+	text-decoration: none;
+}
+.haha1-2{
+	width:109px;
+	height: 21px;
+	margin: 0 auto;
+	font-size:12px;
+	color: #ff6700;
+	line-height:21px;
+	text-align: center;
+	margin-top: 15px;
+}
+.haha12{
+	display: block;
+	width:80px;
+	height:80px;
+	margin: 0 auto;
+    float: right;
+    margin-top: 30px;
+    margin-right: 10px;
+}
+.haha2{
+	width: 234px;
+	height: 143px;
+    margin-bottom: 14px;
+    background: #fff;
+    position: relative;
+}
+.haha2:hover{
+	transform: translateY(3px);
+	box-shadow:0px 3px 5px 5px rgba(0, 0, 0, 0.05);
+}
+.haha13{
+	width:234px;
+	height: 49px;
+	margin-top: 30px;
+	position:absolute;
+}
+.haha13-1{
+	width:98px;
+	height:20px;
+	display: block;
+	margin: 0 auto;
+	float:left;
+    font-size:14px;
+    color: #000;
+    text-align:center;
+      text-decoration:none;
+}
+#haha13-2{
+	width:98px;
+	height:20px;
+	display: block;
+    font-size:12px;
+    color: #ccc;
+    text-align:center;
+    text-decoration:none;
+    margin-top: 26px;
+}
+.haha2 .iconfont{
+	 width:80px;
+    height:49px;
+    float: right; 
+    display: block;
+    margin-top: -70px;
+    margin-right:20px;
+    position:relative;
+}
+
+/* .icon-gengduo:before { content: "\e60b"; 
+font-size: 40px;
+color: red;
+display: block;
+text-align:center;
+margin-top:20px;
+/* margin: 0 auto; */
+} */
